@@ -31,7 +31,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.facebook.com/profile.php?id=100014656830373"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/dododonut__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/sahasawad.pracong"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
 </p>
