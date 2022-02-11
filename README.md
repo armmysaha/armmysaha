@@ -27,7 +27,6 @@
 </p>
 
   <br/>
-    <a href="https://github.com/natnatcha6"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=natnatcha6&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
 ## Connect with me:
 <p align="left">
